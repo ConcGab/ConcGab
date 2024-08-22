@@ -9,4 +9,4 @@ Você pode entrar em contato comigo:
 conceicaogabriel@professor.educacao.sp.gov.br
 @alurastartestudante
 
-![](https://pixabay.com/pt/gifs/gato-gatinho-gato-preto-felino-13812/)
+![](https://pixabay.com/pt/gifs/gato-janela-noite-estrelas-p%C3%A1ssaro-1423/)
