@@ -7,3 +7,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 Você pode entrar em contato comigo:
 conceicaogabriel@professor.educacao.sp.gov.br
+@alurastartestudante
+
+![https://pixabay.com/pt/gifs/gato-gatinho-gato-preto-felino-13812/](link)
