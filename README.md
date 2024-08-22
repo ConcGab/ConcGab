@@ -9,4 +9,4 @@ Você pode entrar em contato comigo:
 conceicaogabriel@professor.educacao.sp.gov.br
 @alurastartestudante
 
-![](pixabay.com/pt/gifs/cora%C3%A7%C3%A3o-amor-batimento-cardiaco-11534/)
+![](link)
