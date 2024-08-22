@@ -1,12 +1,16 @@
-# estudantealura
-Meu nome é **Conceição Gabriel**
 
-Estou estudando na Alura.
-Estou me desenvolvendo na linguagem JavaScript.
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
 
-**Você pode entrar em contato comigo:**
-conceicaogabriel@professor.educacao.sp.gov.br
-@alurastartestudante
-
-![](link)
+  </head>
+  <body>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
